@@ -1,14 +1,8 @@
 {
   "name": "RxJs Debugging",
-  "description": "Tool for debugging RxJs streams. UI for rxjs-spy project",
+  "description": "Tool for debugging RxJs streams. UI for rxjs-spy project.",
   "version": "1.0",
   "minimum_chrome_version": "10.0",
   "devtools_page": "devtools.html",
-  "permissions": [],
-  "background": {
-    "scripts": ["extension.js"],
-    "persistent": false
-  },
-  "browser_action": {},
   "manifest_version": 2
 }
