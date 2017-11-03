@@ -1,0 +1,3 @@
+- https://developer.chrome.com/extensions
+- https://developer.chrome.com/extensions/devtools
+- https://developer.chrome.com/extensions/samples
