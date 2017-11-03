@@ -1,6 +1,6 @@
 chrome.devtools.panels.create("RxJs",
-    "MyPanelIcon.png",
-    "panel.html",
+    "extension/panel/icon.png",
+    "extension/panel/panel.html",
     function (panel) {
         console.log('Extension running...');
     }
