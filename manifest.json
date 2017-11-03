@@ -1,0 +1,12 @@
+{
+  "name": "RxJs Debugging",
+  "description": "Tool for debugging RxJs streams. Ui for rxjs-spy project",
+  "version": "1.0",
+  "permissions": [],
+  "background": {
+    "scripts": ["extension.js"],
+    "persistent": false
+  },
+  "browser_action": {},
+  "manifest_version": 2
+}
